@@ -1,0 +1,72 @@
+INTERVIEW PREPARATION GUIDE — CS / AI / ML ROLES
+
+SECTION 1: Data Structures & Algorithms
+- Arrays, linked lists, stacks, queues — know insertion, deletion, search complexity
+- Trees (binary tree, BST, AVL) — traversal: in-order, pre-order, post-order
+- Graphs — BFS, DFS, Dijkstra's algorithm
+- Sorting algorithms: bubble, merge, quick sort — time/space complexity
+- Big-O notation: O(1), O(n), O(n log n), O(n²)
+- Dynamic programming: memoization vs tabulation
+- Interview tip: Always state your approach before coding, then optimize
+
+SECTION 2: Python Technical Interview Tips
+- Explain list comprehensions, generators, decorators
+- Difference between mutable and immutable types
+- isinstance() vs type() — when to use each
+- Understanding of __init__, __str__, __repr__ in OOP
+- How Python handles memory and garbage collection
+- Context managers (with statement) and why they matter
+- Threading vs multiprocessing in Python
+
+SECTION 3: Machine Learning Interview Questions
+- What is the difference between supervised and unsupervised learning?
+- Explain bias-variance tradeoff
+- What is overfitting and how do you prevent it? (regularization, dropout, early stopping)
+- How does gradient descent work?
+- Difference between classification and regression
+- What are precision, recall, F1-score and when to use each?
+- Explain cross-validation and why it is important
+- What is a confusion matrix?
+- Describe the full machine learning pipeline: data → preprocessing → model → evaluation
+- How do you handle imbalanced datasets?
+- When would you use Random Forest vs SVM vs Neural Network?
+
+SECTION 4: Deep Learning Concepts
+- What is a neural network and how does backpropagation work?
+- What are activation functions? (ReLU, Sigmoid, Softmax)
+- Explain CNNs and their use in image recognition
+- What is transfer learning and when is it useful?
+- Difference between RNN, LSTM, and Transformer
+- What is attention mechanism?
+- What is fine-tuning vs training from scratch?
+
+SECTION 5: Databases & SQL
+- SELECT, WHERE, GROUP BY, HAVING, ORDER BY, LIMIT
+- INNER JOIN, LEFT JOIN, RIGHT JOIN — explain with examples
+- What is normalization? (1NF, 2NF, 3NF)
+- What is an index and why does it matter for performance?
+- Difference between SQL and NoSQL databases
+
+SECTION 6: Git & Version Control
+- git init, git add, git commit, git push, git pull, git clone
+- What is a branch and why do we use them?
+- git merge vs git rebase — explain the difference
+- How to resolve merge conflicts
+- What is a pull request and how does code review work?
+
+SECTION 7: HR / Behavioral Interview Questions
+- Tell me about yourself — keep it concise, highlight skills and projects
+- What is your greatest strength? (Choose skill relevant to role, with evidence)
+- What is your greatest weakness? (Be honest, show self-awareness and improvement)
+- Where do you see yourself in 5 years? (Show ambition aligned with the company)
+- Why do you want to join us? (Research the company beforehand)
+- Describe a challenge you overcame — use STAR format (Situation, Task, Action, Result)
+- How do you handle tight deadlines? (Show time management and prioritization)
+- Tell me about a team project — highlight your contribution and collaboration
+
+SECTION 8: Projects to Highlight
+- Always quantify impact: accuracy %, time saved, users served
+- Explain your choice of tech stack
+- Be ready to explain any library or concept from your resume
+- Prepare 2-3 strong project explanations (under 2 minutes each)
+- Link every project to skills required in the job description

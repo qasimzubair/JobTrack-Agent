@@ -1,0 +1,26 @@
+============================================================
+APPLICATION REMINDERS (Urgency-Aware)
+============================================================
+Generated: 2026-04-28 13:51:21
+Today's Date: 2026-04-28
+
+
+────────────────────────────────────────
+  🟠 TODAY
+────────────────────────────────────────
+
+  [APP-001] 🟠 TODAY — Interview with TechVision AI for 'Junior AI Engineer Intern' on 2026-04-28.
+    Action: Revise Python, ML basics, and prepare project explanation notes
+
+  [APP-002] 🟠 TODAY — Application sent to DataFlow Systems. Follow up on 2026-04-28 if no response.
+    Action: Follow up if no response received
+
+  [APP-003] 🟠 TODAY — NOT APPLIED yet to StartupX for 'ML Trainee'. 
+    Action: Tailor resume and apply ASAP.
+
+────────────────────────────────────────
+  🟡 TOMORROW
+────────────────────────────────────────
+
+  [APP-004] 🟡 SHORTLISTED — DigitalNest for 'Junior Software Engineer'. 
+    Action: Prepare for technical test or next round. Prepare for technical assessment

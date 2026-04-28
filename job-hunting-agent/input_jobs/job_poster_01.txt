@@ -1,0 +1,43 @@
+Company: TechVision AI
+Position: Junior AI Engineer Intern
+Location: Lahore, Pakistan (Hybrid)
+Source: LinkedIn
+
+About the Role:
+TechVision AI is looking for a motivated Junior AI Engineer Intern to join our growing team. 
+You will work alongside senior engineers to develop and deploy machine learning models and 
+AI-powered solutions for our clients.
+
+Requirements:
+- Strong foundation in Python programming
+- Knowledge of machine learning algorithms and concepts
+- Experience with data preprocessing and data cleaning
+- Familiarity with pandas, numpy, and scikit-learn
+- Basic understanding of deep learning frameworks (TensorFlow or PyTorch)
+- Experience with Jupyter Notebooks for experimentation
+- Knowledge of prompt engineering and LLM APIs
+- Familiarity with Git and GitHub for version control
+- Strong problem solving skills and analytical thinking
+- Good communication skills and ability to work in a team
+- Understanding of OOP (Object-Oriented Programming)
+- Basic knowledge of SQL and database concepts
+
+Nice to Have:
+- Experience with Flask or FastAPI for building APIs
+- Familiarity with Streamlit for deploying ML demos
+- Knowledge of computer vision or NLP
+- Familiarity with Docker and deployment pipelines
+- Understanding of Agentic AI systems
+
+Responsibilities:
+- Assist in building, training, and evaluating ML models
+- Clean and preprocess datasets for model training
+- Write clean, well-documented Python code
+- Support the team in API integration and prompt design
+- Document experiments and results using GitHub
+
+Duration: 3 months (with possibility of full-time conversion)
+Stipend: PKR 25,000 - 40,000/month
+
+To Apply:
+Send CV and GitHub profile to careers@techvisionai.com

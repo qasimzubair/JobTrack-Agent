@@ -1,0 +1,71 @@
+============================================================
+JOB ANALYSIS REPORT
+============================================================
+Generated: 2026-04-28 13:51:21
+
+SKILLS & KEYWORDS FOUND IN JOB POSTERS:
+----------------------------------------
+  ✓  python
+  ✓  oop
+  ✓  object-oriented
+  ✓  design patterns
+  ✓  data structures
+  ✓  algorithms
+  ✓  machine learning
+  ✓  deep learning
+  ✓  scikit-learn
+  ✓  tensorflow
+  ✓  pytorch
+  ✓  computer vision
+  ✓  nlp
+  ✓  data preprocessing
+  ✓  pandas
+  ✓  numpy
+  ✓  prompt engineering
+  ✓  llm
+  ✓  api
+  ✓  agentic ai
+  ✓  flask
+  ✓  fastapi
+  ✓  html
+  ✓  css
+  ✓  rest api
+  ✓  streamlit
+  ✓  sql
+  ✓  postgresql
+  ✓  mongodb
+  ✓  database
+  ✓  git
+  ✓  github
+  ✓  docker
+  ✓  jupyter
+  ✓  communication
+  ✓  problem solving
+  ✓  analytical thinking
+  ✓  documentation
+
+TOTAL SKILLS EXTRACTED: 38
+
+SAMPLE JD CONTENT (first 800 chars):
+----------------------------------------
+============================================================
+ FILE: job_poster_01.txt
+============================================================
+Company: TechVision AI
+Position: Junior AI Engineer Intern
+Location: Lahore, Pakistan (Hybrid)
+Source: LinkedIn
+
+About the Role:
+TechVision AI is looking for a motivated Junior AI Engineer Intern to join our growing team. 
+You will work alongside senior engineers to develop and deploy machine learning models and 
+AI-powered solutions for our clients.
+
+Requirements:
+- Strong foundation in Python programming
+- Knowledge of machine learning algorithms and concepts
+- Experience with data preprocessing and data cleaning
+- Familiarity with pandas, numpy, and scikit-learn
+- Basic understanding of deep learning frameworks (TensorFlow or PyTorch)
+- Exp
+...

@@ -1,0 +1,64 @@
+AGENTIC AI — LECTURE NOTES AND KEY CONCEPTS
+
+Module 1: Introduction to AI Agents
+- An AI Agent is a software entity that perceives its environment, makes decisions, and takes actions to achieve specific goals.
+- GAME Framework: Goal, Actions, Memory, Environment
+  - Goal: What the agent is trying to achieve
+  - Actions: What the agent can do (tools, APIs, file reading, etc.)
+  - Memory: What the agent remembers (context, history, files)
+  - Environment: Where the agent operates (local files, APIs, web)
+- Agents are different from simple programs because they loop, plan, and adapt.
+
+Module 2: Types of AI Agent Memory
+- In-context memory: information passed directly in the prompt
+- External memory: files, databases, vector stores
+- Episodic memory: history of past actions and outcomes
+- Semantic memory: factual knowledge stored in files or databases
+- Best practice: Use JSON or CSV for structured memory, TXT for unstructured
+
+Module 3: Prompt Engineering Essentials
+- A prompt is an instruction given to a language model
+- Components of a good prompt: role, context, task, format, constraints
+- Chain-of-thought prompting: ask the model to reason step by step
+- Few-shot prompting: provide examples in the prompt to guide behavior
+- Zero-shot prompting: rely on model's existing knowledge without examples
+- Prompt templates improve consistency and reproducibility
+- Always sanitize user inputs before inserting into prompts
+
+Module 4: Python for Agentic AI
+- Key libraries: os, json, csv, datetime, re
+- File I/O patterns: open(), read(), write(), readlines()
+- Use os.makedirs(exist_ok=True) to safely create folders
+- Use csv.DictReader and csv.DictWriter for structured data
+- Use json.load() and json.dump() for JSON-based memory
+- Exception handling is critical: wrap file operations in try/except
+- Use Python dataclasses or dicts to represent agent state
+
+Module 5: Tool Design for Agents
+- Tools are functions the agent can call to interact with the environment
+- Tools should be: single-purpose, well-named, documented, and safe
+- Common tool types: file reader, web searcher, calculator, code executor
+- Tool outputs should be structured and predictable
+- Always validate tool inputs and handle errors gracefully
+
+Module 6: Agent Loop Pattern
+- Observe: read inputs from the environment
+- Think: analyze inputs, plan next action
+- Act: execute chosen action using a tool
+- Update memory: save new information
+- Loop: repeat until goal is achieved or termination condition met
+
+Module 7: LLM API Integration
+- Use environment variables for API keys (never hardcode secrets)
+- Common providers: OpenAI, Anthropic, Google Gemini
+- Rate limiting: implement retry logic with exponential backoff
+- Token limits: chunk long documents before sending to API
+- Cost awareness: monitor token usage in production agents
+- Structured output: request JSON responses for reliable parsing
+
+Module 8: Real-World Agent Applications
+- Job-hunting agents: file-driven, with tracker and reminders
+- Research agents: web search + summarization
+- Code assistant agents: read codebase + suggest fixes
+- Customer support agents: FAQ + escalation logic
+- Financial agents: data analysis + reporting

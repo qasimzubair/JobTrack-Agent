@@ -1,0 +1,47 @@
+Company: DataFlow Systems
+Position: Python Backend Developer (Junior)
+Location: Karachi, Pakistan (Remote)
+Source: Rozee.pk
+
+Job Description:
+DataFlow Systems is seeking a junior Python Backend Developer to help build scalable 
+web APIs and data pipelines. This is a remote-friendly role suitable for fresh graduates 
+or final-year students.
+
+Technical Requirements:
+- Proficiency in Python (2+ years preferred or strong project experience)
+- Experience building REST APIs using Flask or FastAPI
+- Strong knowledge of OOP principles and design patterns
+- Database management skills: SQL, PostgreSQL, or MongoDB
+- Experience with Git and GitHub for collaborative development
+- Understanding of API design and integration
+- Knowledge of data structures and algorithms
+- Problem solving and debugging skills
+- Understanding of HTTP protocols and web fundamentals
+- Familiarity with HTML and CSS for basic front-end understanding
+
+Preferred Skills:
+- Experience with pandas and numpy for data processing
+- Knowledge of data preprocessing pipelines
+- Familiarity with Streamlit or similar tools
+- Understanding of machine learning concepts
+- Experience with Docker and deployment
+- Knowledge of prompt engineering for LLM integration
+- Familiarity with deep learning frameworks
+
+Soft Skills:
+- Strong written and verbal communication (English)
+- Ability to work independently and meet deadlines
+- Team collaboration and code review participation
+
+Responsibilities:
+- Design and implement RESTful APIs
+- Maintain and optimize SQL databases
+- Write unit tests and maintain documentation
+- Collaborate with frontend and ML teams
+- Participate in code reviews via GitHub
+
+Salary: PKR 60,000 - 100,000/month
+Employment Type: Full-Time / Contract
+
+Apply at: hr@dataflowsystems.pk

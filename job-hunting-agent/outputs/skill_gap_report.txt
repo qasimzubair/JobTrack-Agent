@@ -1,0 +1,59 @@
+============================================================
+SKILL GAP REPORT
+============================================================
+Generated: 2026-04-28 13:51:21
+
+MATCH SCORE: 81.6%
+  Job skills required : 38
+  Skills matched      : 31
+  Skills missing      : 7
+
+MATCHED SKILLS:
+----------------------------------------
+  ✓  python
+  ✓  oop
+  ✓  object-oriented
+  ✓  design patterns
+  ✓  data structures
+  ✓  algorithms
+  ✓  machine learning
+  ✓  deep learning
+  ✓  scikit-learn
+  ✓  tensorflow
+  ✓  data preprocessing
+  ✓  pandas
+  ✓  numpy
+  ✓  prompt engineering
+  ✓  llm
+  ✓  api
+  ✓  agentic ai
+  ✓  flask
+  ✓  html
+  ✓  css
+  ✓  streamlit
+  ✓  sql
+  ✓  postgresql
+  ✓  database
+  ✓  git
+  ✓  github
+  ✓  jupyter
+  ✓  communication
+  ✓  problem solving
+  ✓  analytical thinking
+  ✓  documentation
+
+MISSING SKILLS (gaps to close):
+----------------------------------------
+  ✗  pytorch
+  ✗  computer vision
+  ✗  nlp
+  ✗  fastapi
+  ✗  rest api
+  ✗  mongodb
+  ✗  docker
+
+IMPROVEMENT PRIORITY:
+----------------------------------------
+  Focus on the missing skills listed above.
+  Build small projects or take short courses to demonstrate them.
+  Add them to your resume once you can give evidence of usage.

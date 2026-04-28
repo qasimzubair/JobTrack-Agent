@@ -1,0 +1,38 @@
+============================================================
+COVER LETTER (Auto-Generated — Customize Before Sending)
+============================================================
+Generated: 2026-04-28 13:51:21
+
+Date: April 28, 2026
+
+Hiring Manager
+DataFlow Systems
+
+Dear Hiring Manager,
+
+I am excited to apply for the position of Python Backend Developer (Junior) at DataFlow Systems. 
+As a Computer Science student with hands-on experience in python, oop, object-oriented, design patterns, data structures, 
+I am confident in my ability to contribute meaningfully to your team from 
+day one.
+
+Throughout my academic journey, I have built several projects that directly 
+align with the requirements outlined in your job posting. My experience includes 
+developing machine learning models, building REST APIs with Flask, managing SQL 
+databases, and maintaining all work on GitHub with clear documentation. I have 
+also worked with LLM APIs and applied prompt engineering techniques to build 
+intelligent automation tools.
+
+What excites me about DataFlow Systems is the opportunity to apply my skills in 
+a real-world environment and continue growing as a developer. I am a quick 
+learner who thrives in collaborative settings and takes pride in writing clean, 
+well-documented code.
+
+I have attached my resume for your review. I would welcome the opportunity to 
+discuss how my background can contribute to your team's goals.
+
+Thank you for your time and consideration.
+
+Kind regards,
+
+Saif Ahmed
+saif.ahmed@example.com | github.com/saifahmeddd

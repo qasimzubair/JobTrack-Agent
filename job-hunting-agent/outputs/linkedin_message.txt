@@ -1,0 +1,17 @@
+============================================================
+LINKEDIN RECRUITER OUTREACH MESSAGE
+============================================================
+Generated: 2026-04-28 13:51:21
+(Keep it under 300 characters for InMail — customize before sending)
+
+─── SHORT VERSION ────────────────────────────────────────
+Hi [Recruiter Name], I'm a CS student specializing in AI/ML and 
+saw the Python Backend Developer (Junior) opening at DataFlow Systems. I'd love to connect 
+and learn more about the role. My GitHub: github.com/saifahmeddd
+
+─── FULL VERSION (Connection Request Note) ───────────────
+Hi [Name], I'm a final-year CS student with experience in Python, 
+machine learning, and building AI agents. I noticed the Python Backend Developer (Junior) 
+role at DataFlow Systems and believe my project background aligns well.
+I'd really appreciate any guidance or the chance to discuss the 
+opportunity. GitHub: github.com/saifahmeddd. Thank you!

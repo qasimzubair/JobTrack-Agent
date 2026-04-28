@@ -1,0 +1,83 @@
+============================================================
+TAILORED RESUME SUGGESTIONS
+============================================================
+Generated: 2026-04-28 13:51:21
+
+RESUME QUALITY SCORE: 97/100
+----------------------------------------
+Skills breadth     : 30/30 (42 skills detected)
+GitHub presence    : 10/10 ✓
+Projects section   : 20/20 ✓
+Education section  : 10/10 ✓
+Certifications     : 10/10 ✓
+Resume length      : 7/10 (356 words)
+Contact info       : 10/10 ✓
+
+SUGGESTED IMPROVEMENTS (aligned with job requirements):
+----------------------------------------
+  • Demonstrate 'python' with a concrete project or experience.
+  • Demonstrate 'oop' with a concrete project or experience.
+  • Demonstrate 'object-oriented' with a concrete project or experience.
+  • Demonstrate 'design patterns' with a concrete project or experience.
+  • Demonstrate 'data structures' with a concrete project or experience.
+  • Demonstrate 'algorithms' with a concrete project or experience.
+  • Demonstrate 'machine learning' with a concrete project or experience.
+  • Demonstrate 'deep learning' with a concrete project or experience.
+  • Demonstrate 'scikit-learn' with a concrete project or experience.
+  • Demonstrate 'tensorflow' with a concrete project or experience.
+  • Demonstrate 'pytorch' with a concrete project or experience.
+  • Demonstrate 'computer vision' with a concrete project or experience.
+  • Demonstrate 'nlp' with a concrete project or experience.
+  • Demonstrate 'data preprocessing' with a concrete project or experience.
+  • Demonstrate 'pandas' with a concrete project or experience.
+  • Demonstrate 'numpy' with a concrete project or experience.
+  • Demonstrate 'prompt engineering' with a concrete project or experience.
+  • Demonstrate 'llm' with a concrete project or experience.
+  • Demonstrate 'api' with a concrete project or experience.
+  • Demonstrate 'agentic ai' with a concrete project or experience.
+  • Demonstrate 'flask' with a concrete project or experience.
+  • Demonstrate 'fastapi' with a concrete project or experience.
+  • Demonstrate 'html' with a concrete project or experience.
+  • Demonstrate 'css' with a concrete project or experience.
+  • Demonstrate 'rest api' with a concrete project or experience.
+  • Demonstrate 'streamlit' with a concrete project or experience.
+  • Demonstrate 'sql' with a concrete project or experience.
+  • Demonstrate 'postgresql' with a concrete project or experience.
+  • Demonstrate 'mongodb' with a concrete project or experience.
+  • Demonstrate 'database' with a concrete project or experience.
+  • Demonstrate 'git' with a concrete project or experience.
+  • Demonstrate 'github' with a concrete project or experience.
+  • Demonstrate 'docker' with a concrete project or experience.
+  • Demonstrate 'jupyter' with a concrete project or experience.
+  • Demonstrate 'communication' with a concrete project or experience.
+  • Demonstrate 'problem solving' with a concrete project or experience.
+  • Demonstrate 'analytical thinking' with a concrete project or experience.
+  • Demonstrate 'documentation' with a concrete project or experience.
+
+SUGGESTED RESUME BULLET POINTS:
+----------------------------------------
+  • Built a file-driven AI agent using the GAME framework in Python with full documentation.
+  • Trained ML models achieving 87%+ accuracy, evaluated using precision, recall, and F1-score.
+  • Developed REST APIs using Flask, integrated SQL databases, and deployed with GitHub CI.
+  • Used pandas and numpy for end-to-end data preprocessing and feature engineering pipelines.
+  • Applied prompt engineering techniques to interact with LLM APIs for task automation.
+  • Maintained all projects on GitHub with README files and version-controlled commits.
+  • Collaborated in team environments using Git branching, pull requests, and code reviews.
+
+PRIORITY SKILLS TO ADD/IMPROVE BEFORE APPLYING:
+----------------------------------------
+  ⚠  pytorch — build a mini project or add a certification
+  ⚠  computer vision — build a mini project or add a certification
+  ⚠  nlp — build a mini project or add a certification
+  ⚠  fastapi — build a mini project or add a certification
+  ⚠  rest api — build a mini project or add a certification
+  ⚠  mongodb — build a mini project or add a certification
+  ⚠  docker — build a mini project or add a certification
+
+GENERAL TIPS:
+----------------------------------------
+  • Keep your resume to 1 page if under 2 years of experience.
+  • Quantify every achievement (%, numbers, time saved).
+  • Tailor your resume for each job — use keywords from the JD.
+  • Put the most recent and relevant experience at the top.
+  • Proofread carefully — typos are automatic rejection signals.

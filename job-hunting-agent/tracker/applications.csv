@@ -1,0 +1,6 @@
+application_id,company,role,source,status,applied_date,interview_date,follow_up_date,next_action,notes
+APP-001,TechVision AI,Junior AI Engineer Intern,LinkedIn,Interview Scheduled,2026-04-28,2026-04-28,2026-04-28,"Revise Python, ML basics, and prepare project explanation notes",Resume tailored for Python and ML role
+APP-002,DataFlow Systems,Python Backend Developer (Junior),Rozee.pk,Applied,2026-04-28,,2026-04-28,Follow up if no response received,Emphasized Flask and SQL experience in resume
+APP-003,StartupX,ML Trainee,WhatsApp Poster,Not Applied,,,2026-04-28,Tailor resume for ML role and apply before deadline,Deadline is soon — prioritize this
+APP-004,DigitalNest,Junior Software Engineer,LinkedIn,Shortlisted,2026-04-28,,2026-04-28,Prepare for technical assessment,Strong DSA and Flask experience highlighted
+APP-005,CodeHouse,AI Intern,Company Website,Rejected,2026-04-28,,,Request feedback and improve weak areas,Lacked Docker experience — consider learning it

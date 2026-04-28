@@ -1,0 +1,72 @@
+SAIF AHMED
+Computer Science Student | AI & ML Enthusiast
+Email: saif.ahmed@example.com
+GitHub: github.com/saifahmeddd
+LinkedIn: linkedin.com/in/saifahmeddd
+Location: Lahore, Pakistan
+
+EDUCATION
+Bachelor of Science in Computer Science
+University Name | 2022-2026
+CGPA: 3.5/4.0
+Relevant Coursework: Data Structures, Algorithms, Agentic AI, Machine Learning, Database Systems, OOP, Web Development
+
+SKILLS
+Technical Skills:
+- Programming: Python, C++, JavaScript
+- Machine Learning: scikit-learn, TensorFlow, pandas, numpy
+- Deep Learning: basic neural networks, CNNs
+- Data Preprocessing: cleaning, normalization, feature engineering
+- Web Development: Flask, HTML, CSS, basic Streamlit
+- Databases: SQL, SQLite, basic PostgreSQL
+- Tools: Git, GitHub, Jupyter Notebook, VS Code
+- AI/LLM: prompt engineering, OpenAI API integration
+- OOP: object-oriented design, design patterns
+
+Soft Skills:
+- Problem solving and analytical thinking
+- Communication and teamwork
+- Technical documentation
+- Time management
+
+PROJECTS
+
+1. Agentic AI Research Agent
+   - Built a file-driven research agent using the GAME framework in Python
+   - Implemented custom tools: summarizer, keyword extractor, Q&A generator
+   - Used LLM API for intelligent content generation
+   - Pushed to GitHub with full documentation
+   Tech: Python, OpenAI API, prompt engineering, GitHub, OOP
+
+2. ML Sentiment Analyzer
+   - Trained a sentiment analysis model on movie reviews dataset
+   - Achieved 87% accuracy using logistic regression
+   - Preprocessed data using pandas and numpy
+   - Created a Flask API endpoint for real-time predictions
+   Tech: Python, scikit-learn, pandas, numpy, Flask
+
+3. Student Database Management System
+   - Designed and implemented a full CRUD application with SQLite
+   - Built an admin dashboard with HTML, CSS, and Flask
+   - Applied OOP patterns for model/view separation
+   Tech: Python, Flask, SQL, HTML, CSS, SQLite
+
+4. Data Visualization Dashboard
+   - Analyzed e-commerce datasets and built interactive plots
+   - Used Streamlit to deploy the visualization dashboard
+   Tech: Python, pandas, Streamlit, matplotlib
+
+EXPERIENCE
+Lab Teaching Assistant — CS Department (2025-Present)
+- Assist students in AI/ML lab sessions
+- Grade assignments and provide feedback
+- Demonstrate Python and Jupyter usage
+
+CERTIFICATIONS
+- Machine Learning Specialization — Coursera (2024)
+- Python for Data Science — DataCamp (2023)
+- Git & GitHub for Developers — Udemy (2023)
+
+ACHIEVEMENTS
+- Winner, University Hackathon 2024 (AI Track)
+- Dean's List — 3 consecutive semesters
