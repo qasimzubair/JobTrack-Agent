@@ -1,7 +1,7 @@
 # JobTrack Agent — Intelligent Job-Hunting Assistant
 
-> **Author:** Qasim Zubair | Roll No: 22F-3100 | Section: AI-8B | FAST University
-> **Email:** qasimzubair166@gmail.com
+> **Author:** Qasim Zubair
+> **Email:** qasimzubair.link@gmail.com
 
 A **file-driven AI agent** implementing the GAME framework (Goal, Actions, Memory, Environment) that ingests job descriptions, resumes, and knowledge-base notes from designated local folders to automate and organise the entire job-application workflow.
 
